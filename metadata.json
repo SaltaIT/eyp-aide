@@ -2,10 +2,10 @@
   "name": "eyp-aide",
   "version": "1.0.1",
   "author": "Jordi Prats",
-  "summary": null,
+  "summary": "aide",
   "license": "Apache-2.0",
   "source": "https://github.com/SaltaIT/eyp-aide",
-  "project_page": null,
+  "project_page": "https://github.com/SaltaIT/eyp-vmwaretools",
   "issues_url": "https://github.com/SaltaIT/eyp-aide/issues",
   "dependencies": [
     {"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0"},
